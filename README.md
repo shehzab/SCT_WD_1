@@ -46,6 +46,8 @@ CryptoVault showcases a next-generation blockchain platform with modern web desi
 
 Simply open `index.html` in any modern web browser - no setup required!
 
+Live Demo: https://shehzab.github.io/SCT_WD_1/
+
 ## 🔧 Key Features Implemented
 
 ### Navigation
